@@ -54,6 +54,11 @@ class Fichas:
                   self.listaFichas[i].pip1, self.listaFichas[i].pip2)
 
                         
+class Prueba:
+    def __init__(sef):
+        print("Hola mundo")
+    
+
                                             
             
 #Test
