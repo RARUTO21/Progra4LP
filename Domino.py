@@ -268,7 +268,7 @@ class Grafo:
                 print(p.getNum(), " ya se uso")
 
                     
-     #Falta hacer el backtracking. no hay soluciones si el bone siguiente o abajo ya fue usado, entonces buscar otra ruta
+     #Falta hacer el backtracking. no hay soluciones si el bone siguiente y abajo ya fueron usados, entonces buscar otra ruta
      #La idea es poder deshacer y rehacer
         
     
